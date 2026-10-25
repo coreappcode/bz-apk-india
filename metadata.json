@@ -1,0 +1,6 @@
+{
+  "name": "BZEAD",
+  "description": "Premium Global Marketplace & Buyer Application for India with full product catalog, search, cart, and checkout",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
